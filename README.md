@@ -1,4 +1,4 @@
-![image](https://github.com/Ananyakakumanu/521_Proj4/assets/158865231/577d4ba8-76d5-4511-b442-d1cf387b9517)# Array Initialization LRU Program
+# Array Initialization LRU Program
 
 ## Introduction:
 This Java program simulates array initialization in both column-major and row-major orders in the physical memory and calculates the number of page faults generated using an LRU cache replacement policy.
